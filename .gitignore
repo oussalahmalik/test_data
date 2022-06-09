@@ -1,0 +1,6 @@
+# ignore those extensions
+*.xlsx
+*.csv
+*.xls
+*.pyc
+__pycache__
